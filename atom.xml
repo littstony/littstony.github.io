@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>思考、总结、复盘</title>
   
+  <subtitle>静水流深，和光同尘。</subtitle>
+  <link href="https://littstony.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
-  <updated>2024-12-29T13:36:33.947Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://littstony.github.io/"/>
+  <updated>2025-01-04T05:12:10.185Z</updated>
+  <id>https://littstony.github.io/</id>
   
   <author>
     <name>littstony</name>
@@ -17,23 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2024/12/29/hello-world/"/>
-    <id>http://example.com/2024/12/29/hello-world/</id>
-    <published>2024-12-29T13:36:33.947Z</published>
-    <updated>2024-12-29T13:36:33.947Z</updated>
+    <title>成瘾：在放纵中寻找平衡</title>
+    <link href="https://littstony.github.io/2025/01/04/books-2025-01-04-%E6%88%90%E7%98%BE%EF%BC%9A%E5%9C%A8%E6%94%BE%E7%BA%B5%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%B9%B3%E8%A1%A1/"/>
+    <id>https://littstony.github.io/2025/01/04/books-2025-01-04-%E6%88%90%E7%98%BE%EF%BC%9A%E5%9C%A8%E6%94%BE%E7%BA%B5%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%B9%B3%E8%A1%A1/</id>
+    <published>2025-01-04T05:07:17.000Z</published>
+    <updated>2025-01-04T05:12:10.185Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;DOPAMINE&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;D：数据&lt;/li&gt;
+&lt;li&gt;O：目的&lt;/li&gt;
+&lt;li&gt;P：问题&lt;/li&gt;
+&lt;li&gt;A：戒断&lt;/li&gt;
+&lt;li&gt;M：正念&lt;/li&gt;
+&lt;li&gt;I：洞悉&lt;/li&gt;
+&lt;li&gt;N：下一步计划&lt;/li&gt;
+&lt;li&gt;E：尝试&lt;/li&gt;
+&lt;/ol</summary>
         
       
     
     
     
+    <category term="心理学" scheme="https://littstony.github.io/categories/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    
+    
+    <category term="books" scheme="https://littstony.github.io/tags/books/"/>
     
   </entry>
   
